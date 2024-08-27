@@ -9,8 +9,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" width=50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4V2kn-tebPn0SHU_X7GyyD-PaBvD3dGnZRLjLsnsrQ2GE-CEuGqnWBmcuhVXD7X9wXrA&usqp=CAU" width=50 />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NRBeCHvXhvqAyhrb03GGHMY3JlJ17XvDMQ&s" width=50 />
-<img src="https://w7.pngwing.com/pngs/770/966/png-transparent-blender-computer-icons-rendering-blender-3d-computer-graphics-text-orange-thumbnail.png" width=50 />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmil3VtGXJ_YJY-JG-K5HYE7y5Qwu5lmhgRgIR_8gEReMdhjPQAM391pBoih0l6YfEuOQ&usqp=CAU" width=50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width=50 />
 </p>
 <h1>🖕FUCK YOU NVIDIA🖕</h1>
 <img src="https://na.cx/i/SJ2Z2Qm.jpg" />
