@@ -11,9 +11,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4V2kn-tebPn0SHU_X7GyyD-PaBvD3dGnZRLjLsnsrQ2GE-CEuGqnWBmcuhVXD7X9wXrA&usqp=CAU" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmil3VtGXJ_YJY-JG-K5HYE7y5Qwu5lmhgRgIR_8gEReMdhjPQAM391pBoih0l6YfEuOQ&usqp=CAU" width=55 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width=60 />
-<img src="https://1000logos.net/wp-content/uploads/2023/04/Photoshop-logo.png" width=65 />
-<img src="" width=50 />
-<img src="" width=50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width=65 />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6kiNWTfkYHcDxY3V4w-NSg69GUKeIE_1DQ&s" width=50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/640px-Calligrakrita-base.svg.png" width=50 />
 </p>
 <h1>🖕FUCK YOU NVIDIA🖕</h1>
 <img src="https://na.cx/i/SJ2Z2Qm.jpg" />
