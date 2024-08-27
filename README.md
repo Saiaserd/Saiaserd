@@ -4,7 +4,7 @@
 <p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BLiDGu00YvUfOHXSILafaSbsYchE4QfHRw&s" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeXsHepYV6snoukh6yXEfe6cC0AkOZF8PQA&s" width=50 />
-<img src="https://banner2.cleanpng.com/20180408/pew/avgkwvnq1.webp" width=50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=50 />
 <img src="" width=50 />
 <img src="" width=50 />
 <img src="" width=50 />
