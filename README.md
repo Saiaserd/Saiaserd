@@ -1,5 +1,5 @@
 ## Profile👋
-I'm from Taiwan 🇹🇼🇹🇼🇹🇼.
+I'm from Taiwan ✈︎.
 I'm currently a student skilled in programming and game design, and I'm now learning in the field of art.
 <!--
 **Saiaserd/Saiaserd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
