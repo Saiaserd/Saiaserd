@@ -4,7 +4,7 @@
 <p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BLiDGu00YvUfOHXSILafaSbsYchE4QfHRw&s" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeXsHepYV6snoukh6yXEfe6cC0AkOZF8PQA&s" width=50 />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREadhYWxcLBoldO_5kFkZWJk_hceOMM1CxQ&s" width=50 />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREadhYWxcLBoldO_5kFkZWJk_hceOMM1CxQ&s" width=45 />
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width=50 />
 <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" width=50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width=50 />
