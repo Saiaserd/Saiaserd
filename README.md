@@ -7,6 +7,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeXsHepYV6snoukh6yXEfe6cC0AkOZF8PQA&s" width=50 />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREadhYWxcLBoldO_5kFkZWJk_hceOMM1CxQ&s" width=45 />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width=50 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width=50 />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" width=50 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width=50 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width=50 />
