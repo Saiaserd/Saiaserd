@@ -1,7 +1,7 @@
 <h1>🔧 Profile 🔧</h1>
 <p><p>I'm from Taiwan ✈︎.</p></p>
 <p>I'm currently a student skilled in programming and game design, and I'm now learning in the field of art.</p>
-<h1>🧰 Toolbox 🧰</h1>
+<h1>🧰 Toolbox & Skills 🧰</h1>
 <p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BLiDGu00YvUfOHXSILafaSbsYchE4QfHRw&s" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeXsHepYV6snoukh6yXEfe6cC0AkOZF8PQA&s" width=50 />
@@ -15,6 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6kiNWTfkYHcDxY3V4w-NSg69GUKeIE_1DQ&s" width=50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/640px-Calligrakrita-base.svg.png" width=55 />
+<img src="https://w7.pngwing.com/pngs/681/413/png-transparent-arch-linux-tux-linux-logo-bird-linux-thumbnail.png" width=50 />
 </p>
 <h1>🖕FUCK YOU NVIDIA🖕</h1>
 <img src="https://na.cx/i/SJ2Z2Qm.jpg" />
