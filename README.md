@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width=50 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width=50 />
   <img src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width=55 />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=50 /><br>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=55 /><br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4V2kn-tebPn0SHU_X7GyyD-PaBvD3dGnZRLjLsnsrQ2GE-CEuGqnWBmcuhVXD7X9wXrA&usqp=CAU" width=50 />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmil3VtGXJ_YJY-JG-K5HYE7y5Qwu5lmhgRgIR_8gEReMdhjPQAM391pBoih0l6YfEuOQ&usqp=CAU" width=55 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width=60 />
